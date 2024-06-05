@@ -7,7 +7,10 @@ void citire();
 void extinde_traseul();
 void exclude_ultima_indicatie();
 void numar_total_de_pasi();
-void numar_total_de_schimbari_de_directii();
-
+void numar_total_de_schimbari();
+void unPas();
+void sortare_directii();
+void gaseste_dreptunghi();
+void determinare_comoara();
 
 #endif //PRACTICA_C___COMORI_H
